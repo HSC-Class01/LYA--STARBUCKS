@@ -1,0 +1,15 @@
+{
+  "company_display_name": "Starbucks Korea / SCK Company",
+  "corp_code": "00359386",
+  "aliases": ["스타벅스커피코리아", "스타벅스", "에스씨케이컴퍼니", "SCK컴퍼니"],
+  "start_year": 2010,
+  "report_types": {
+    "annual": "11011",
+    "half_year": "11012",
+    "quarterly_q1": "11013",
+    "quarterly_q3": "11014"
+  },
+  "currency": "KRW",
+  "unit": "million KRW",
+  "store_raw_reports": true
+}
